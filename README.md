@@ -10,8 +10,8 @@
 
 - [Recurrent Neural Networks](#badges-or-shields)
   - [Simple RNN](#badge-examples)
-    - [NoteBoook](#badge-examples)
-    - [Code:](#badges-we-request)
+    - <a href="https://github.com/ArmandAguilar/machine_learning_examples/blob/main/neural_networks/notebook/SIMPLE_RNN_2.ipynb">[NoteBoook](#badge-examples)</a>
+    - <a href="https://github.com/ArmandAguilar/machine_learning_examples/blob/main/neural_networks/code/cnn.py">[Code:](#badges-we-request)</a>
 
  
 ## Installation guide
